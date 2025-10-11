@@ -1,4 +1,3 @@
-
 ---
 title: "Energy Shield"
 date: "2018-10-01T15:22:30.000Z"
