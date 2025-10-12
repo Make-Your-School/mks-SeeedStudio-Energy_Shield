@@ -3,7 +3,7 @@ title: "Energy Shield"
 date: "2018-10-01T15:22:30.000Z"
 tags: 
   - "shield"
-coverImage: "74_energie_shield.jpg"
+coverImage: "74_energie_shield.png"
 material_number: "74"
 material_type: "shield"
 material_short_descr: "Seeed Studio Energy Shield"
