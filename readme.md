@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Energy_Shield.gi
 repo_prefix: "mks"
 repo_part: "Energy_Shield"
 embedded_example_file: "examples/Energy_Shield_minimal/Energy_Shield_minimal.ino"
-title: 'Energy Shield'
-status: 'active'
-difficulty: 'advanced'
 ---
 
 
